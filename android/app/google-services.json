@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057488563091",
+    "project_id": "test-kiddie-care",
+    "storage_bucket": "test-kiddie-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057488563091:android:748661c53907808c5b1666",
+        "android_client_info": {
+          "package_name": "com.example.kiddie_care_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057488563091-da52m6hbm9ffkr237cqqighuiole0sph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6keOl9HSfYO7dno-quyl6xzUYjQ5fY0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057488563091-da52m6hbm9ffkr237cqqighuiole0sph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kiddiecarechatbot-mtfd",
+  "private_key_id": "ff051bf862298dcbd793e0900060a1c5ccf99013",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjyYPhv7QnqZik\nU6Wl8q4NAcbTnEtfSH8HEe5ot+BvpOe5u1piVlaDvBzy1yzad7r/0FeYc0Y2uLS3\n4SdcobCs8JGpqovSzCI+RsufbRSuvctHW8h5cr5ZiOr1b3aN2+f6mMC6PvzwvyzB\nEpPuqoHEzbY2DhXRIoQnD6Pby2WTYwDwWLz+BuLoWUaDFK3aWZns4dzamGP2xVKn\n7VGXNgZCvEmK3DAtWomSyUNnHkDo0nrECq+XGtajosL4nUsJzwGXCSZXJgpNkf5V\ni89q6XcekEJ3a2iBb/p9sU68HOwJ9IG1pmwb/04C6GbhMnwf4KFnDSoAgL8l/Qvt\nguuJFOUfAgMBAAECggEAGkTEqR1E+KODvr9HrwDoF1/0kpXbpNGMxgaDNTpgfad2\nHtzEl0b/oys1fWEzaWqQjFzO372FQluHaIJs/LdWDbabthmLSWjCCTjziYNGMOxx\nwOUglxHnI5cJEAoren8NiqybJIPbr4UJ2YFwRnQEUhsoIS1LJHqjtVwVzLend+bE\nUnroZcijRJo8ohyTAWW4GhBrKSLQlw8IAxT2RX5nMZolYaeqDgtZLKijcxC5uxOO\niH0MozufucVcHy6Vy7EsE1t9mLt4n3PTdWJRVRup0FfKq9P8ApcLjqvZHdTKCOAS\nMO0YV5vhdJlvm2pIopgPU2p47UDBRrhFgUeQl2xrwQKBgQDUc5xXQTynS+dn90Ad\nYu/q+t8MjB9hHCVG4HxMM8hTveRGYUyztevU81qQrgYiKr/RdfrnacR//VADMgiD\nJhtfEfC9wGo1PvZDyol5VQwMXBbAKhicuzmoMsjcohcyJ4hcAIuVxQix49nQRJQF\nuQl8krsrqvFC061FE9If0sBD4QKBgQDFXD179Qab1WZeKQPoj45HBqbXk0cEH6Ij\njBaB9JILEz3kPFydYLkt3S2Rrg6T5Z5+0/QirM6nxJ6LvUKbKocxG6vVSBzbDOR7\nBNcpNlrsKPKUW9LDbkNrzLZswFLWtIKHQEPL7Dt8Ru3yb3d33bPOWyHujv+UsJQD\n5WEoF7pI/wKBgD5/L/ufDkeslYtI+cxrQWafnCPlyIlZrUGXYhlMll7EGrX1g4nO\nN2zyla6/8r/0UW89xKx0ucBo9TOrcUObXyvtbCN1ygiV1/4DQ8O0mBG+uVaYS5s3\nnHN1VQ9Kg4ZWiM9/vZA2YSNrgrS4p86zKy5BP9xNsiFVgcAzX3nLFpIhAoGARPxl\nEXsogDgrvCYiE5x6YyFUGG6GmE5mYn6JL4vJsM1dCPaAeRJiKEHzt8RbnB7bNAHq\niGRXKBV2Reo16f8HmobNnZPDYl4zTzz16JXzWjFF+c3O8jkMoBXCfmkLi7k1FwnD\nqPg+Isa4TdHgtKluPGdmiPi7JcJDOslnGJiSqQkCgYEAjA0ziGcid1aFqlT051V8\nUuck/qG1S4EkZmb8HASCiiRgAFej7RzPOK2JbsjWCCKYhGh21mgvXj/93XTQu9W4\nCz42cwvIDQLClwPN8lhfpA5khaNgS3PSyYdCgPj+j6cPGE2ofkx96LiQ2lozH47O\ng6PDJnMDocD44J/mN9+LmoA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kiddiebot@kiddiecarechatbot-mtfd.iam.gserviceaccount.com",
+  "client_id": "117006574851301180384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kiddiebot%40kiddiecarechatbot-mtfd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
